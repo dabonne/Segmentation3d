@@ -1,0 +1,9 @@
+/snap/clion/123/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lirisimagine/CLionProjects/Segmentation3d
+-- Statut de la bibliotheque OpenCV: 
+-- config: $ {OpenCV_DIR} 
+-- version: $ {OpenCV_VERSION} 
+-- bibliothèques: $ {OpenCV_LIBS} 
+-- chemin d'inclusion: $ {OpenCV_INCLUDE_DIRS} 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lirisimagine/CLionProjects/Segmentation3d/cmake-build-debug
